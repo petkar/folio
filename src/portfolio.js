@@ -216,7 +216,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/Logo.webp"),
+      // image: require("./assets/images/Logo.webp"),
       projectName: "",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
@@ -228,7 +228,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/Logo.webp"),
+      // image: require("./assets/images/Logo.webp"),
       projectName: "",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
